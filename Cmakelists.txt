@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 4.0.2 FATAL_ERROR)
+
+project(Reposit2)
+
+add_executable(Reposit2 src/main.cpp)
